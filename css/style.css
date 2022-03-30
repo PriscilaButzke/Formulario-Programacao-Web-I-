@@ -1,0 +1,30 @@
+* {
+    margin 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+#table {
+    margin: 50px auto;
+    border-collapse: collapse;
+    width: 400px;
+}
+
+.titulo{
+    background-color: #85C88A ;
+    border: 1px solid black;
+}
+
+.categorias{
+    background-color: #EBD671;
+    border: 1px solid black;
+}
+.infos{
+    background-color: #6FB2D2 ;
+    border: 1px solid black;
+    text-align: center;
+}
